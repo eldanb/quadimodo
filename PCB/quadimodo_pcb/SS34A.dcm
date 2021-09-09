@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS34A
+D MULTICOMP - SS34A - DIODE, RECTIFIER, 3A, 40V, DO-214AC
+K
+F https://componentsearchengine.com/Datasheets/2/SS34A.pdf
+$ENDCMP
+#
+#End Doc Library

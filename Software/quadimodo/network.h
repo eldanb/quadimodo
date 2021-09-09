@@ -1,0 +1,2 @@
+void netUpdate();
+void netInit();

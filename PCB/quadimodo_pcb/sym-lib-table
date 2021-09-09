@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name SQ2310ES-T1_GE3)(type Legacy)(uri ${KIPRJMOD}/SQ2310ES-T1_GE3.lib)(options "")(descr ""))
+  (lib (name TLV75533PDBVR)(type Legacy)(uri ${KIPRJMOD}/TLV75533PDBVR.lib)(options "")(descr ""))
+  (lib (name AO3400A)(type Legacy)(uri ${KIPRJMOD}/AO3400A.lib)(options "")(descr ""))
+  (lib (name SS34)(type Legacy)(uri ${KIPRJMOD}/SS34.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQ2310ES-T1_GE3
+D Vishay SQ2310ES-T1_GE3 N-channel MOSFET, 6 A, 20 V SQ Rugged, 3-Pin SOT-23
+K
+F https://www.vishay.com/docs/67036/sq2310es.pdf
+$ENDCMP
+#
+#End Doc Library

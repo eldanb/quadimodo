@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3400A
+D 30V N-Channel MOSFET
+K
+F http://aosmd.com/res/data_sheets/AO3400A.pdf
+$ENDCMP
+#
+#End Doc Library
